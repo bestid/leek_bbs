@@ -23,7 +23,7 @@ public class Plate implements Serializable {
     private String reserve2;
 
     private Integer todayTotalTheme;
-ssssss
+
     private List<Post> postList;
 
     public Integer getTodayTotalTheme() {
